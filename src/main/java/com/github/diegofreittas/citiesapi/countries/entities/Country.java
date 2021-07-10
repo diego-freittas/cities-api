@@ -1,4 +1,4 @@
-package com.github.diegofreittas.citiesapi.countries;
+package com.github.diegofreittas.citiesapi.countries.entities;
 
 import lombok.Data;
 
